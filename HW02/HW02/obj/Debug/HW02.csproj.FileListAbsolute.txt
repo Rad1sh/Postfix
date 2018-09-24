@@ -1,0 +1,10 @@
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\bin\Debug\HW02.exe.config
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\bin\Debug\HW02.exe
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\bin\Debug\HW02.pdb
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.csprojAssemblyReference.cache
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.Form1.resources
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.Properties.Resources.resources
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.csproj.GenerateResource.cache
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.csproj.CoreCompileInputs.cache
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.exe
+C:\Users\ZUN\Documents\Visual Studio 2017\Projects\HW02\HW02\obj\Debug\HW02.pdb
